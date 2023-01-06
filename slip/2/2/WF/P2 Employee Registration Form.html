@@ -1,0 +1,44 @@
+<html>
+
+	<head>
+	<title> Employee Registration </title>
+	<script type= "text/javascript">
+		function valid(){
+		
+		var name = document.getElementById("Name").value;
+		var birth_date = document.getElementById("BDate").value;
+		var salary = document.getElementById("Salary").value;
+		var join_date = document.getElementById("JDate").value;
+		
+		if(/[a-zA-Z]/.test(name)==false){
+			alert("Enter the name.");
+		}
+		else if(birth_date == null){
+			alert("Enter the date of birth.");
+		}
+		else if(isNaN(salary) || salary<5000){
+			alert("Salary must be a number above 5000.");
+		}
+		else if(join_date == null){
+			alert("Enter the joining date");
+		}
+		else alert("Employee Information Submitted Successfully.");
+		}
+		
+	</script>
+	</head>
+
+	<body>
+		<center><b>
+		<h3>Employee Registration Form</h3>
+		<form action = "" onsubmit = "return valid()" method = "post">
+		Full Name: <input type = "text" id = "Name"><br><br>
+		Birthday: <input type = "date" id = "BDate"><br><br>
+		Salary: <input type = "text" id = "Salary"><br><br>
+		Joining Date: <input type = "date" id = "JDate"><br><br>
+		<input type = "Submit" value = "Submit"><br><br>
+		</form>
+		</b></center>
+	</body>
+	
+</html>

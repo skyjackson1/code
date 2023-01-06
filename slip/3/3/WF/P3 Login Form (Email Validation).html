@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<title> Login Form Validation </title>
+		<script type = "text/javascript">
+		function valid(){
+		
+		var name = document.ContactForm.name.value;
+		var email = document.ContactForm.email.value;
+		var pno = document.ContactForm.pno.value;
+		
+		var inputError = nameErr, mailErr, PhnoErr;
+		
+		if(/[a-zA-Z]/.test(name)==false){
+			alert("Please enter your name correctly.(Characters should be between a-z,A-Z)");
+		}
+		else if(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)==false){
+			alert("Please enter valid email id.");
+		}
+		else if(/^[1-9\d{9}$]/.test(pno)==false){
+			alert("Please enter valid phone number.(Phone number should be of 9digits)");
+		}
+		else if((name||email||pno)==true) return false;
+		else{
+			var dataPreview = "You've entered the following details: \n"+
+							  "Full Name: " + name + "\n"+
+							  "Email ID: " + email + "\n"+
+							  "Phone Number: " + pno + "\n";
+		}
+		alert(dataPreview);
+		};
+		
+		</script>
+	</head>
+
+	<body>
+		<center>
+		<form name = "ContactForm" action = "" onsubmit = "return valid()" method = "post">
+			<h2>Login Form</h2>
+			
+			<div class = "row">
+			<label>Full Name</label>
+			<input type = "text" name = "name">
+			<div class = "error" id = "nameErr"></div>
+			</div>
+			
+			<div class = "row">
+			<label>Email ID</label>
+			<input type = "text" name = "email">
+			<div class = "error" id = "mailErr"></div>
+			</div>
+			
+			<div class = "row">
+			<label>Phone Number</label>
+			<input type = "text" name = "pno">
+			<div class = "error" id = "PhnoErr"></div>
+			</div>
+			
+			<div class = "row">
+			<input type = "Submit" name = "Submit">
+			</div>
+			
+		</form>
+		</center>
+	</body>
+
+</html>
+

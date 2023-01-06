@@ -1,0 +1,500 @@
+MOVIES,RATING,VOTES,RUN TIME
+Blood Red Sky,6.1,"21,062",121
+Masters of the Universe: Revelation,5,"17,870",25
+The Walking Dead,8.2,"8,85,805",44
+Rick and Morty,9.2,"4,14,849",23
+Army of Thieves,,,
+Outer Banks,7.6,"25,858",50
+The Last Letter from Your Lover,6.8,"5,283",110
+Dexter,8.6,"6,65,387",53
+Never Have I Ever,7.9,"34,530",30
+Virgin River,7.4,"27,279",44
+Gunpowder Milkshake,6,"17,989",114
+Lucifer,8.1,"2,64,222",42
+Fear Street: 1994,6.2,"50,148",107
+Sex/Life,5.4,"12,172",
+American Horror Story,8,"2,86,488",60
+Grey's Anatomy,7.5,"2,66,258",41
+Breaking Bad,9.4,"15,52,311",49
+The Good Doctor,8.1,"70,871",41
+Atypical,8.3,"71,544",30
+Stranger Things,8.7,"8,85,856",51
+Fear Street: 1978,6.8,"36,634",109
+Friends,8.9,"8,80,918",22
+The Flash,7.6,"3,20,264",43
+Peaky Blinders,8.8,"3,93,414",60
+He-Man and the Masters of the Universe,,,
+Chernobyl,5,"4,681",136
+Vikings,8.5,"4,59,913",44
+Better Call Saul,8.8,"3,47,857",46
+Supernatural,8.4,"4,04,273",44
+The Blacklist,8,"2,13,522",43
+Fear Street: 1666,6.7,"27,447",114
+Animal Kingdom,8.2,"26,926",60
+Brooklyn Nine-Nine,8.4,"2,48,583",22
+NCIS: Naval Criminal Investigative Service,7.7,"1,25,619",60
+Kingdom,8.4,"34,906",45
+Modern Family,8.4,"3,78,030",22
+Titans,7.7,"73,656",45
+The Witcher,8.2,"3,36,484",60
+Downton Abbey,8.7,"1,71,804",58
+Shingeki no kyojin,9,"2,42,582",24
+Suits,8.4,"3,74,263",44
+La casa de papel,8.3,"3,41,858",70
+Schitt's Creek,8.5,"90,728",22
+Outlander,8.4,"1,34,991",64
+The Last Kingdom,8.4,"94,650",60
+Black Mirror,8.8,"4,69,407",60
+Ozark,8.4,"2,06,090",60
+The Crown,8.6,"1,69,517",58
+Sweet Tooth,7.9,"37,142",
+Army of the Dead,5.8,"1,32,378",148
+Fargo,8.9,"3,41,221",53
+How I Met Your Mother,8.3,"6,24,036",22
+Community,8.5,"2,31,013",22
+Sons of Anarchy,8.5,"2,70,445",45
+StartUp,7.9,"22,971",44
+The Vampire Diaries,7.7,"2,93,434",43
+365 dni,3.3,"63,620",114
+How to Sell Drugs Online (Fast),7.9,"23,960",30
+Good Girls,7.8,"38,618",43
+13 Reasons Why,7.6,"2,66,386",60
+The Queen's Gambit,8.6,"3,36,801",395
+Legends of Tomorrow,6.8,"95,897",42
+Star Trek: The Next Generation,8.6,"1,06,181",44
+Le dernier mercenaire,5.4,"2,606",110
+Resort to Love,5.7,"1,591",101
+Evil,7.7,"15,048",42
+The Expanse,8.5,"1,19,644",60
+New Amsterdam,8.1,"27,709",43
+Line of Duty,8.7,"46,751",60
+The 100,7.6,"2,26,962",43
+New Girl,7.7,"2,00,421",22
+Prison Break,8.3,"4,92,438",44
+Sex Education,8.3,"1,77,274",45
+A Classic Horror Story,5.7,"8,822",95
+Feels Like Ishq,6.6,848,32
+Young Royals,8.6,"16,954",50
+Shadow and Bone,7.7,"60,283",
+The Hitman's Bodyguard,6.9,"2,05,979",118
+Mad Men,8.6,"2,16,203",47
+Élite,7.5,"59,730",60
+Gilmore Girls,8.1,"1,06,650",44
+Sky Rojo,6.5,"6,940",31
+Lupin,7.5,"84,428",45
+Trollhunters: Rise of the Titans,6.9,"2,353",104
+Heartland,8.4,"11,764",45
+Jurassic Park,8.1,"8,97,444",127
+Family Guy,8.1,"3,12,584",22
+Daredevil,8.6,"3,74,963",54
+Dark,8.8,"3,12,629",60
+Boku no hîrô akademia,8.4,"44,367",24
+Cobra Kai,8.6,"1,22,268",30
+ Kingdom,7.1,"6,388",92
+Gotham,7.8,"2,16,458",42
+Billions,8.4,"74,094",60
+Agents of S.H.I.E.L.D.,7.5,"2,05,119",45
+Don't Breathe,7.1,"2,37,601",88
+The Ice Road,5.6,"20,561",109
+Arrow,7.5,"4,14,712",42
+Orange Is the New Black,8,"2,84,554",59
+Gossip Girl,7.4,"1,59,666",42
+Bridgerton,7.3,"83,944",60
+The Kominsky Method,8.2,"33,440",30
+Homeland,8.3,"3,22,307",55
+Riverdale,6.8,"1,26,112",45
+Sherlock,9.1,"8,39,029",88
+La cocinera de Castamar,7.4,"1,336",
+Queen of the South,8,"23,318",42
+CSI: Crime Scene Investigation,7.6,"78,589",60
+The Umbrella Academy,8,"1,75,513",60
+Supergirl,6.2,"1,15,373",43
+BoJack Horseman,8.7,"1,24,318",25
+The Lord of the Rings: The Fellowship of the Ring,8.8,"17,13,028",178
+I Think You Should Leave with Tim Robinson,7.8,"8,095",16
+South Park,8.7,"3,40,148",22
+Once Upon a Time,7.7,"2,12,616",60
+Star Trek: Discovery,7.2,"1,01,079",60
+Teen Wolf,7.6,"1,32,950",41
+How to Get Away with Murder,8.1,"1,36,135",43
+Star Trek: Deep Space Nine,8,"55,687",45
+Seinfeld,8.8,"2,64,801",22
+Spartacus: Blood and Sand,8.5,"2,28,484",55
+Hawaii Five-0,7.3,"68,627",42
+Good Witch,7.3,"8,268",48
+The Sinner,7.9,"96,901",45
+Arrested Development,8.7,"2,84,373",22
+Escape Room,6.4,"99,351",99
+You,7.7,"1,57,666",45
+Mindhunter,8.6,"2,35,694",60
+Jaws,8,"5,58,731",124
+Avatar: The Last Airbender,9.3,"2,65,845",23
+The Punisher,8.5,"1,94,777",53
+Star Trek: Voyager,7.8,"61,917",44
+The Departed,8.5,"12,27,522",151
+Narcos,8.8,"3,75,261",49
+The Serpent,7.6,"33,936",58
+Star Wars: The Clone Wars,8.3,"71,904",23
+"Murder, She Wrote",7,"20,330",50
+Fatherhood,6.7,"26,508",109
+Blue Bloods,7.6,"34,064",43
+Heist,6.8,846,41
+The Woman in the Window,5.7,"57,048",100
+Black Summer,6.5,"25,453",40
+Katla,7.1,"8,391",
+Gone Girl,8.1,"8,95,888",149
+Jumanji: Welcome to the Jungle,6.9,"3,37,900",119
+American Psycho,7.6,"5,17,014",101
+House of Cards,8.7,"4,76,656",51
+Miraculous: Tales of Ladybug & Cat Noir,7.7,"8,300",20
+Mayor Grom: Chumnoy Doktor,6.3,"8,466",136
+Demon Slayer: Kimetsu No Yaiba,8.7,"46,259",25
+Jane the Virgin,7.8,"41,758",60
+The Good Wife,8.3,"70,021",43
+The Good Place,8.2,"1,27,417",22
+The Americans,8.4,"88,962",44
+Glee,6.7,"1,39,934",44
+Bo Burnham: Inside,8.7,"31,108",87
+Kill Bill: Vol. 1,8.1,"10,34,554",111
+Bartkowiak,5,398,91
+Castlevania,8.3,"51,802",23
+300,7.6,"7,51,815",117
+Dawson's Creek,6.6,"38,117",60
+It,7.3,"4,80,607",135
+Pretty Little Liars,7.4,"1,55,875",44
+Star Trek,8.3,"76,213",50
+Archer,8.6,"1,41,784",22
+Spider-Man: Far from Home,7.5,"3,63,012",129
+Twin Peaks,8.8,"1,82,173",47
+The Mitchells vs the Machines,7.7,"69,482",113
+The Bold Type,7.9,"16,183",45
+"Love, Death & Robots",8.5,"1,20,364",15
+Hostage House,3.7,315,85
+The Hobbit: An Unexpected Journey,7.8,"7,74,632",169
+Clueless,6.8,"1,94,461",97
+Ray Donovan,8.3,"79,618",60
+Transformers: War for Cybertron,7.4,"2,923",30
+Baywatch,5.5,"1,70,844",116
+Trollhunters,8.4,"14,759",23
+Snowpiercer,6.9,"39,433",60
+Workin' Moms,7.7,"12,896",30
+The Devil All the Time,7.1,"1,08,684",138
+Broadchurch,8.4,"1,00,611",48
+Fast & Furious 7,7.1,"3,71,194",137
+L.A.'s Finest,6,"5,667",60
+Good on Paper,5.6,"8,099",92
+Iron Fist,6.5,"1,18,859",55
+Too Hot to Handle,4.6,"10,008",40
+Haseen Dillruba,6.9,"18,149",135
+Hannibal,8.5,"2,36,161",44
+Longmire,8.3,"30,685",60
+Sicario,7.6,"3,87,903",121
+The Fall,8.1,"89,590",60
+The Irishman,7.8,"3,45,455",209
+Jujutsu Kaisen,8.7,"25,386",24
+The Lord of the Rings: The Return of the King,8.9,"16,91,777",201
+Baby Driver,7.6,"4,68,655",113
+Dynasty,7.3,"16,666",42
+Spider-Man,7.3,"7,09,684",121
+Jumanji: The Next Level,6.7,"2,05,638",123
+I Care a Lot,6.3,"1,09,059",118
+Love and Monsters,7,"1,00,693",109
+Awake,4.8,"16,262",96
+The Haunting of Hill House,8.6,"1,95,117",572
+Things Heard & Seen,5.3,"24,250",121
+NCIS: Los Angeles,6.7,"49,943",43
+Arrival,7.9,"6,23,912",116
+Taxi Driver,8.2,"7,52,553",114
+Grease,7.2,"2,50,587",110
+El inocente,7.9,"19,980",467
+The Movies That Made Us,7.8,"3,653",45
+Ragnarok,7.5,"31,200",45
+The King,7.2,"97,848",140
+Ginny & Georgia,7.5,"35,247",
+Jupiter's Legacy,6.7,"31,953",56
+Designated Survivor,7.5,"81,326",60
+Sing 2,,,
+White Collar,8.2,"1,22,230",40
+The Dig,7.1,"60,598",112
+Knives Out 2,,,
+Dirty John,7.2,"18,088",44
+The Old Guard,6.7,"1,41,605",125
+Venom,6.7,"3,90,167",112
+The Killing,8.2,"1,02,312",45
+Don't Look Up,,,145
+Skins,8.2,"77,286",46
+6 Underground,6.1,"1,50,455",128
+The Fate of the Furious,6.6,"2,15,795",136
+Captain America: Civil War,7.8,"6,97,750",147
+Rurôni Kenshin: Sai shûshô - The Beginning,7.8,"1,976",137
+Death Note: Desu nôto,9,"2,62,556",24
+Naruto,8.3,"79,832",24
+Black Sails,8.2,"96,550",56
+Run,6.7,"55,389",90
+Orphan Black,8.3,"1,04,501",44
+Grimm,7.8,"1,11,716",45
+Luther,8.4,"1,25,749",60
+Sexy Beasts,4.7,592,
+Red Notice,,,
+Sen to Chihiro no kamikakushi,8.6,"6,82,809",125
+Hotel Transylvania: Transformania,,,
+Murdoch Mysteries,8.1,"11,437",48
+Wish Dragon,7.2,"15,262",98
+Resident Evil: Infinite Darkness,5.8,"7,128",26
+Reign,7.5,"45,045",42
+Elementary,7.9,"1,03,707",60
+The Girl in the Spider's Web,6.1,"43,896",115
+Kong: Skull Island,6.6,"2,94,292",118
+The Missing,8.2,"23,317",60
+Hagane no renkinjutsushi,9.1,"1,34,855",24
+Altered Carbon,8,"1,49,002",60
+Enterprise,7.5,"48,148",60
+Black Clover,8.3,"13,218",24
+Uncut Gems,7.4,"2,39,770",135
+American Crime Story,8.4,"83,137",42
+Bloodline,7.9,"46,111",60
+Revenge,7.8,"1,14,932",44
+The Revenant,8,"7,32,244",156
+Z Nation,6.7,"34,226",44
+Polar,6.3,"80,553",118
+Kim's Convenience,8.2,"12,443",22
+Grace and Frankie,8.3,"41,520",30
+The Lord of the Rings: The Two Towers,8.7,"15,29,752",179
+Love Is Blind,6.1,"5,342",48
+Legally Blonde,6.3,"1,95,752",96
+Jessica Jones,7.9,"1,98,056",56
+Rust Creek,5.9,"9,263",108
+American Vandal,8.2,"28,093",34
+Cheers,7.9,"49,886",22
+Ocean's Eight,6.3,"1,97,909",110
+America: The Motion Picture,5.7,"4,485",98
+That '70s Show,8,"1,57,990",22
+Below Deck Mediterranean,7.3,"1,327",43
+Pirates of the Caribbean: Dead Men Tell No Tales,6.5,"2,76,173",129
+Sense8,8.3,"1,44,032",60
+How to Become a Tyrant,7.4,"3,700",
+Dead to Me,8,"61,944",30
+Narcos: México,8.4,"64,838",50
+2001: A Space Odyssey,8.3,"6,22,998",149
+Adventure Time,8.6,"81,525",11
+Nanatsu no taizai,8,"26,282",24
+My Unorthodox Life,5.1,742,
+Slasher,6.7,"12,031",60
+Anne,8.7,"43,433",60
+The Tudors,8.1,"70,514",60
+Batman v Superman: Dawn of Justice,6.4,"6,57,423",152
+Pose,8.6,"23,179",60
+Cider no yô ni kotoba ga wakiagaru,7,941,87
+News of the World,6.8,"69,037",118
+Mother!,6.6,"2,01,141",121
+Emily in Paris,7,"55,757",30
+National Lampoon's Animal House,7.5,"1,15,289",109
+The Affair,7.9,"42,129",60
+Honest Thief,6,"40,186",99
+The End of the F***ing World,8.1,"1,57,802",25
+Midnight in Paris,7.7,"3,99,157",94
+Lost in Space,7.3,"76,255",60
+Wentworth,8.6,"18,080",45
+After Life,8.4,"91,972",30
+The Fresh Prince of Bel-Air,7.9,"1,25,167",22
+Kill Bill: Vol. 2,8,"7,06,053",137
+Bates Motel,8.1,"1,00,394",45
+Moneyball,7.6,"3,86,263",133
+Behind Her Eyes,7.2,"47,174",298
+Biohackers,6.8,"7,563",44
+Extraction,6.7,"1,74,406",116
+The IT Crowd,8.5,"1,38,970",25
+Californication,8.3,"1,74,076",28
+Beastars,7.8,"7,429",23
+3rd Rock from the Sun,7.7,"48,780",60
+Big Mouth,7.9,"61,304",30
+Snowpiercer,7.1,"3,35,946",126
+Locke & Key,7.4,"47,717",48
+300: Rise of an Empire,6.2,"2,86,734",102
+Kimi no na wa.,8.4,"2,17,433",106
+Travelers,8.1,"49,197",45
+Black Lightning,6.1,"23,354",43
+Booksmart,7.2,"1,03,143",102
+The Water Man,5.3,"1,978",91
+Chesapeake Shores,7.5,"5,407",42
+Oxygène,6.5,"27,918",100
+Jaws 2,5.8,"73,931",116
+Enola Holmes,6.6,"1,45,206",123
+Rurôni Kenshin: Sai shûshô - The Final,7.2,"4,682",138
+Chilling Adventures of Sabrina,7.5,"82,557",60
+Marcella,7.4,"26,485",45
+Tropic Thunder,7,"3,91,033",107
+Freaks and Geeks,8.7,"1,33,607",44
+iZombie,7.8,"62,258",42
+Spirit Untamed,5.4,"1,741",88
+Poldark,8.3,"27,588",60
+Beauty and the Beast,7.1,"2,84,484",129
+Penny Dreadful,8.2,"1,15,055",60
+Unbelievable,8.4,"81,658",385
+Fate: The Winx Saga,6.9,"30,827",
+Feel Good,7.5,"7,949",30
+Bodyguard,8.1,"1,03,187",60
+The Legend of Korra,8.4,"1,09,581",23
+Bird Box,6.6,"2,97,927",124
+She-Ra and the Princesses of Power,7.9,"11,967",30
+Scorpion,7.1,"48,387",43
+Derry Girls,8.4,"24,293",30
+Hell or High Water,7.6,"2,11,816",102
+The Babysitter,6.3,"79,593",85
+Marriage Story,7.9,"2,66,307",137
+Ratched,7.3,"44,914",
+Annihilation,6.8,"2,93,459",115
+Fractured,6.4,"62,113",99
+El Camino: A Breaking Bad Movie,7.3,"2,00,029",122
+Godless,8.3,"56,997",452
+Haikyuu!!,8.7,"15,250",24
+Wind River,7.7,"2,18,337",107
+Dirilis: Ertugrul,8,"31,182",120
+Frozen,7.4,"5,86,769",102
+The Haunting of Bly Manor,7.4,"77,872",494
+Charlie's Angels,4.8,"62,393",118
+Love,7.7,"39,010",50
+Spenser Confidential,6.2,"77,727",111
+Centaurworld,7.5,207,25
+Lo imposible,7.6,"2,08,903",114
+Shadowhunters: The Mortal Instruments,6.6,"56,183",42
+The Ranch,7.5,"35,091",30
+Shooter,7.5,"33,000",60
+Zoo,6.7,"23,095",42
+The Trial of the Chicago 7,7.8,"1,53,211",129
+Comment je suis devenu super-héros,5.8,"3,214",97
+Stowaway,5.6,"36,937",116
+The Nice Guys,7.4,"2,95,435",116
+The Snowman,5.1,"60,354",119
+Moonrise Kingdom,7.8,"3,28,550",94
+Contagion,6.7,"2,90,444",106
+Nashville,7.7,"23,735",43
+This Is England,7.7,"1,17,889",101
+El hoyo,7,"1,83,495",94
+Scream,7.1,"35,660",45
+Halston,7.5,"10,460",240
+Castle Rock,7.6,"40,731",60
+Misfits,8.2,"95,735",60
+Medici,7.9,"16,659",60
+I'm Thinking of Ending Things,6.6,"71,640",134
+Willy Wonka & the Chocolate Factory,7.8,"1,86,202",100
+Fantasy Island,4.9,"41,744",109
+Doc Martin,8.3,"13,580",46
+Homefront,6.5,"1,13,476",100
+The Power of the Dog,,,125
+Dead Poets Society,8.1,"4,43,357",128
+Contratiempo,8.1,"1,57,061",106
+There's Something About Mary,7.1,"2,98,729",119
+Trailer Park Boys,8.5,"38,861",30
+Binsenjo,8.5,"7,888",80
+Full House,6.7,"54,419",22
+The OA,7.8,"94,862",60
+Lucy,6.4,"4,62,122",89
+Will & Grace,7.2,"52,269",22
+Luke Cage,7.3,"1,20,187",55
+GLOW,8,"42,221",35
+Wet Hot American Summer: Ten Years Later,6.9,"7,784",216
+The Mummy,5.4,"1,77,592",110
+When They See Us,8.9,"1,02,201",296
+22-Jul,6.8,"30,905",143
+When Calls the Heart,8.1,"11,306",43
+A Series of Unfortunate Events,7.8,"55,753",50
+Birdman or (The Unexpected Virtue of Ignorance),7.7,"5,95,946",119
+RuPaul's Drag Race All Stars,8.5,"6,644",60
+Sophie: A Murder in West Cork,6.9,"3,235",164
+Knock Knock,4.9,"87,474",99
+Madam Secretary,7.6,"20,755",45
+Hauru no ugoku shiro,8.2,"3,51,466",119
+The Alienist,7.7,"48,646",60
+Now You See Me,7.2,"6,14,056",115
+Hell's Kitchen,7.1,"19,419",42
+The Ballad of Buster Scruggs,7.3,"1,30,664",133
+The Lost World: Jurassic Park,6.6,"3,90,425",129
+The Politician,7.5,"19,735",42
+Marco Polo,8,"67,083",60
+Tattoo Redo,5.6,232,
+Shameless,8,"15,630",90
+Top Gear,8.6,"1,11,345",60
+Vanquish,2.7,"3,010",94
+Sweet Magnolias,7.4,"10,096",
+Geostorm,5.3,"99,724",109
+The Bureau of Magical Things,6.8,"1,349",25
+Rojst,7,"3,471",50
+Sausage Party,6.1,"1,81,775",89
+A Futile and Stupid Gesture,6.8,"14,676",101
+Eurovision Song Contest: The Story of Fire Saga,6.5,"84,242",123
+Russian Doll,7.9,"72,588",30
+Sa-rang-eui bul-sa-chak,8.7,"16,879",70
+The Next Three Days,7.3,"1,89,815",133
+Maniac,7.8,"69,384",386
+Moonlight,7.4,"2,85,273",111
+In the Heart of the Sea,6.9,"1,28,605",122
+The Babysitter: Killer Queen,5.8,"31,220",101
+Final Space,8.3,"36,443",30
+Into the Badlands,8,"43,147",42
+Firefly Lane,7.4,"16,674",
+Manhunt,8.1,"54,164",60
+Kingdom,8.5,"16,565",43
+Wet Hot American Summer: First Day of Camp,7.4,"22,906",30
+Rebecca,6,"35,836",123
+Master of None,8.3,"70,472",30
+The Stranger,7.3,"38,697",363
+Contact,7.5,"2,61,289",150
+The Kissing Booth,6,"72,207",105
+Top Boy,8.4,"14,832",60
+Climax,7,"58,051",97
+Vivo,7.3,27,95
+Gods of Egypt,5.4,"1,09,959",127
+Mank,6.9,"63,893",131
+Bleach: Burîchi,8.1,"46,537",24
+¿Quién Mató a Sara?,6.4,"10,387",
+X-Ray: Selected Satyajit Shorts,7.2,"7,023",65
+The Dirt,7,"43,022",107
+The Real Housewives of Beverly Hills,5.1,"5,326",44
+Gerald's Game,6.5,"95,660",103
+Outlaw King,6.9,"64,076",121
+Another Life,5,"25,983",43
+Crazy Ex-Girlfriend,7.8,"17,902",42
+Yakusoku no Neverland,8.5,"28,438",23
+He's All That,,,
+High School DxD,7.6,"8,085",23
+Fuller House,6.7,"25,578",30
+Thunder Force,4.4,"35,640",106
+The Midnight Sky,5.6,"75,985",118
+Breach,3.1,"10,958",92
+Rosemary's Baby,8,"2,01,472",137
+Below Deck,7.3,"2,222",43
+Kung Fu Panda 3,7.1,"1,41,657",95
+Bright,6.3,"1,75,334",117
+H2O: Just Add Water,7.2,"13,458",23
+Colony,7.4,"32,620",42
+Deep,4.9,738,101
+From Dusk Till Dawn: The Series,6.9,"19,559",45
+Ender's Game,6.6,"2,28,812",114
+Kôdo giasu - Hangyaku no rurûshu: Code Geass - Lelouch of the Rebellion,8.7,"55,979",24
+Alice in Borderland,7.7,"22,347",50
+Planet of the Apes,8,"1,70,681",112
+Shot Caller,7.3,"77,040",121
+Ash vs Evil Dead,8.4,"67,180",30
+Pieces of a Woman,7.1,"41,856",126
+Yes Day,5.7,"19,062",86
+The Ritual,6.3,"84,230",94
+Force of Nature,4.5,"9,016",91
+Downsizing,5.7,"1,02,222",135
+Fruits Basket,8.6,"3,549",24
+Murder Mystery,6,"1,10,725",97
+Poketto monsutâ,7.5,"39,553",24
+Cursed,5.9,"25,954",60
+Lone Survivor,7.5,"2,73,061",121
+"Extremely Wicked, Shockingly Evil and Vile",6.7,"84,387",110
+Henry Danger,5.7,"3,933",30
+Under the Dome,6.6,"1,02,725",43
+The Founder,7.2,"1,34,759",115
+Mononoke-hime,8.4,"3,59,473",134
+Space Force,6.7,"49,116",30
+Timeless,7.7,"38,791",60
+Seutateueob,8.1,"5,778",80
+La catedral del mar,7.5,"3,574",55
+Beckett,,,108
+Triple Frontier,6.4,"1,15,059",125
+Fondeados,4.2,161,97
